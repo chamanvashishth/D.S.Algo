@@ -14,9 +14,10 @@ My day-by-day DSA practice in C++.
 - [x] **Day 8 — #75 Sort Colors** — Dutch National Flag — `O(n)` time, `O(1)` extra space
 - [x] **Day 9 — #18 4Sum** — Sorting + Two Pointers — `O(n³)` time
 - [x] **Day 10 — #844 Backspace String Compare** — String Simulation — `O(n + m)` time
+- [x] **Day 11 — #581 Shortest Unsorted Continuous Subarray** — Two Pointers + Min/Max — `O(n)` time
 
 ## Progress
 
-**10 / 10 problems completed**
+**11 / 11 problems completed**
 
 More problems will be added as the DSA journey continues.
