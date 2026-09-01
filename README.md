@@ -16,9 +16,10 @@ My day-by-day DSA practice in C++.
 - [x] **Day 10 — #844 Backspace String Compare** — String Simulation — `O(n + m)` time
 - [x] **Day 11 — #581 Shortest Unsorted Continuous Subarray** — Sorting + Comparison — `O(n log n)` time
 - [x] **Day 12 — #141 Linked List Cycle** — Floyd's Cycle Detection — `O(n)` time, `O(1)` extra space
+- [x] **Day 13 — #202 Happy Number** — Set + Cycle Detection — `O(log n)` time, `O(log n)` extra space
 
 ## Progress
 
-**12 / 12 problems completed**
+**13 / 13 problems completed**
 
 More problems will be added as the DSA journey continues.
