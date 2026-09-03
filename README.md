@@ -18,9 +18,10 @@ My day-by-day DSA practice in C++.
 - [x] **Day 12 — #141 Linked List Cycle** — Floyd's Cycle Detection — `O(n)` time, `O(1)` extra space
 - [x] **Day 13 — #202 Happy Number** — Set + Cycle Detection
 - [x] **Day 14 — #287 Find the Duplicate Number** — Floyd's Cycle Detection — `O(n)` time, `O(1)` extra space
+- [x] **Day 15 — #876 Middle of the Linked List** — Slow & Fast Pointers — `O(n)` time, `O(1)` extra space
 
 ## Progress
 
-**14 / 14 problems completed**
+**15 / 15 problems completed**
 
 More problems will be added as the DSA journey continues.
