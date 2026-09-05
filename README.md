@@ -20,9 +20,10 @@ My day-by-day DSA practice in C++.
 - [x] **Day 14 — #287 Find the Duplicate Number** — Floyd's Cycle Detection — `O(n)` time, `O(1)` extra space
 - [x] **Day 15 — #876 Middle of the Linked List** — Slow & Fast Pointers — `O(n)` time, `O(1)` extra space
 - [x] **Day 16 — #234 Palindrome Linked List** — Slow & Fast Pointers + Reverse — `O(n)` time, `O(1)` extra space
+- [x] **Day 17 — #143 Reorder List** — Find Middle + Reverse + Merge — `O(n)` time, `O(1)` extra space
 
 ## Progress
 
-**16 / 16 problems completed**
+**17 / 17 problems completed**
 
 More problems will be added as the DSA journey continues.
