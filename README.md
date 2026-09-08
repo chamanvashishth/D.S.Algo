@@ -22,9 +22,10 @@ My day-by-day DSA practice in C++.
 - [x] **Day 16 — #234 Palindrome Linked List** — Slow & Fast Pointers + Reverse — `O(n)` time, `O(1)` extra space
 - [x] **Day 17 — #143 Reorder List** — Find Middle + Reverse + Merge — `O(n)` time, `O(1)` extra space
 - [x] **Day 18 — #457 Circular Array Loop** — Floyd's Cycle Detection + Direction Check — `O(n²)` time, `O(1)` extra space
+- [x] **Day 19 — Total Number of Commas** — Mathematical Observation — `O(1)` time, `O(1)` space
 
 ## Progress
 
-**18 / 18 problems completed**
+**19 / 19 problems completed**
 
 More problems will be added as the DSA journey continues.
