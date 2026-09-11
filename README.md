@@ -22,10 +22,12 @@ My day-by-day DSA practice in C++.
 - [x] **Day 16 — #234 Palindrome Linked List** — Slow & Fast Pointers + Reverse — `O(n)` time, `O(1)` extra space
 - [x] **Day 17 — #143 Reorder List** — Find Middle + Reverse + Merge — `O(n)` time, `O(1)` extra space
 - [x] **Day 18 — #457 Circular Array Loop** — Floyd's Cycle Detection + Direction Check — `O(n²)` time, `O(1)` extra space
-- [x] **Day 19 — Total Number of Commas** — Mathematical Observation — `O(1)` time, `O(1)` space
+- [x] **Day 19 — Total Number of Commas** — Mathematical Observation — `O(log n)` time, `O(1)` space
+- [x] **Day 20 — #2265 Count Nodes Equal to Average of Subtree** — Postorder DFS — `O(n)` time, `O(h)` extra space
+- [x] **Day 21 — Count 3-Digit Even Numbers** — Frequency Counting + Brute Force — `O(1)` time, `O(1)` space
 
 ## Progress
 
-**19 / 19 problems completed**
+**21 / 21 problems completed**
 
 More problems will be added as the DSA journey continues.
