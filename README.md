@@ -26,9 +26,10 @@ My day-by-day DSA practice in C++.
 - [x] **Day 20 — #2265 Count Nodes Equal to Average of Subtree** — Postorder DFS — `O(n)` time, `O(h)` extra space
 - [x] **Day 21 — Count 3-Digit Even Numbers** — Frequency Counting + Brute Force — `O(1)` time, `O(1)` space
 - [x] **Day 22 — #2472 Maximum Number of Non-overlapping Palindrome Substrings** — DP + Palindrome Check — `O(n²)` time, `O(n²)` space
+- [x] **Day 23 — #1477 Find Two Non-overlapping Sub-arrays Each With Target Sum** — Sliding Window + DP — `O(n)` time, `O(n)` space
 
 ## Progress
 
-**22 / 22 problems completed**
+**23 / 23 problems completed**
 
 More problems will be added as the DSA journey continues.
