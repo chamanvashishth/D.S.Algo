@@ -29,9 +29,10 @@ My day-by-day DSA practice in C++.
 - [x] **Day 23 — #1477 Find Two Non-overlapping Sub-arrays Each With Target Sum** — Sliding Window + DP — `O(n)` time, `O(n)` space
 - [x] **Day 24 — Reverse Degree of a String** — Character Mapping — `O(n)` time, `O(1)` space
 - [x] **Day 25 — Smallest Index With Digit Sum Equal to Index** — Digit Sum — `O(n log(nums[i]))` time, `O(1)` space
+- [x] **Day 26 — Brace Expansion II** — Recursive Parsing + Set — `O(k²)`-ish time, `O(k)` space
 
 ## Progress
 
-**25 / 25 problems completed**
+**26 / 26 problems completed**
 
 More problems will be added as the DSA journey continues.
