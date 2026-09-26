@@ -30,9 +30,10 @@ My day-by-day DSA practice in C++.
 - [x] **Day 24 — Reverse Degree of a String** — Character Mapping — `O(n)` time, `O(1)` space
 - [x] **Day 25 — Smallest Index With Digit Sum Equal to Index** — Digit Sum — `O(n log(nums[i]))` time, `O(1)` space
 - [x] **Day 26 — Brace Expansion II** — Recursive Parsing + Set — `O(k²)`-ish time, `O(k)` space
+- [x] **Day 27 — Evaluate the Bracket Pairs of a String** — Hash Map + String Scan — `O(n)` average time, `O(n)` space
 
 ## Progress
 
-**26 / 26 problems completed**
+**27 / 27 problems completed**
 
 More problems will be added as the DSA journey continues.
