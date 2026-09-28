@@ -32,9 +32,10 @@ My day-by-day DSA practice in C++.
 - [x] **Day 26 — Brace Expansion II** — Recursive Parsing + Set — `O(k²)`-ish time, `O(k)` space
 - [x] **Day 27 — Evaluate the Bracket Pairs of a String** — Hash Map + String Scan — `O(n)` average time, `O(n)` space
 - [x] **Day 28 — Reverse Substrings Between Each Pair of Parentheses** — Stack + Reverse — `O(n²)` worst-case time, `O(n)` space
+- [x] **Day 29 — Maximum Nesting Depth of the Parentheses** — Depth Tracking — `O(n)` time, `O(1)` space
 
 ## Progress
 
-**28 / 28 problems completed**
+**29 / 29 problems completed**
 
 More problems will be added as the DSA journey continues.
