@@ -34,9 +34,10 @@ My day-by-day DSA practice in C++.
 - [x] **Day 28 — Reverse Substrings Between Each Pair of Parentheses** — Stack + Reverse — `O(n²)` worst-case time, `O(n)` space
 - [x] **Day 29 — Maximum Nesting Depth of the Parentheses** — Depth Tracking — `O(n)` time, `O(1)` space
 - [x] **Day 30 — #76 Minimum Window Substring** — Sliding Window — `O(m + n)` time, `O(1)` space
+- [x] **Day 31 — #2267 Check if There Is a Valid Parentheses String Path** — 3D DP + Balance Tracking — `O(mn(m + n))` time, `O(mn(m + n))` space
 
 ## Progress
 
-**30 / 30 problems completed**
+**31 / 31 problems completed**
 
 More problems will be added as the DSA journey continues.
