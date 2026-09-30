@@ -35,9 +35,10 @@ My day-by-day DSA practice in C++.
 - [x] **Day 29 — Maximum Nesting Depth of the Parentheses** — Depth Tracking — `O(n)` time, `O(1)` space
 - [x] **Day 30 — #76 Minimum Window Substring** — Sliding Window — `O(m + n)` time, `O(1)` space
 - [x] **Day 31 — #2267 Check if There Is a Valid Parentheses String Path** — 3D DP + Balance Tracking — `O(mn(m + n))` time, `O(mn(m + n))` space
+- [x] **Day 32 — #438 Find All Anagrams in a String** — Sliding Window + Frequency Count — `O(n)` time, `O(1)` space
 
 ## Progress
 
-**31 / 31 problems completed**
+**32 / 32 problems completed**
 
 More problems will be added as the DSA journey continues.
