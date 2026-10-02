@@ -37,9 +37,10 @@ My day-by-day DSA practice in C++.
 - [x] **Day 31 — #2267 Check if There Is a Valid Parentheses String Path** — 3D DP + Balance Tracking — `O(mn(m + n))` time, `O(mn(m + n))` space
 - [x] **Day 32 — #438 Find All Anagrams in a String** — Sliding Window + Frequency Count — `O(n)` time, `O(1)` space
 - [x] **Day 33 — #30 Substring with Concatenation of All Words** — Sliding Window + Frequency Count — `O(n × wordLen)` time, `O(wordCount)` space
+- [x] **Day 34 — #525 Contiguous Array** — Prefix Sum + Hash Map — `O(n)` time, `O(n)` space
 
 ## Progress
 
-**33 / 33 problems completed**
+**34 / 34 problems completed**
 
 More problems will be added as the DSA journey continues.
