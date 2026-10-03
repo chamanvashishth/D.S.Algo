@@ -4,43 +4,10 @@ My day-by-day DSA practice in C++.
 
 ## Solved Problems Checklist
 
-- [x] **Day 1 — #1 Two Sum** — Hash Map — `O(n)` average time
-- [x] **Day 2 — #167 Two Sum II - Input Array Is Sorted** — Two Pointers — `O(n)` time
-- [x] **Day 3 — #83 Remove Duplicates from Sorted List** — Linked List — `O(n)` time, `O(1)` extra space
-- [x] **Day 4 — #977 Squares of a Sorted Array** — Two Pointers — `O(n)` time
-- [x] **Day 5 — #15 3Sum** — Sorting + Two Pointers — `O(n²)` time
-- [x] **Day 6 — #16 3Sum Closest** — Sorting + Two Pointers — `O(n²)` time
-- [x] **Day 7 — #713 Subarray Product Less Than K** — Sliding Window — `O(n)` time
-- [x] **Day 8 — #75 Sort Colors** — Dutch National Flag — `O(n)` time, `O(1)` extra space
-- [x] **Day 9 — #18 4Sum** — Sorting + Two Pointers — `O(n³)` time
-- [x] **Day 10 — #844 Backspace String Compare** — String Simulation — `O(n + m)` time
-- [x] **Day 11 — #581 Shortest Unsorted Continuous Subarray** — Sorting + Comparison — `O(n log n)` time
-- [x] **Day 12 — #141 Linked List Cycle** — Floyd's Cycle Detection — `O(n)` time, `O(1)` extra space
-- [x] **Day 13 — #202 Happy Number** — Set + Cycle Detection
-- [x] **Day 14 — #287 Find the Duplicate Number** — Floyd's Cycle Detection — `O(n)` time, `O(1)` extra space
-- [x] **Day 15 — #876 Middle of the Linked List** — Slow & Fast Pointers — `O(n)` time, `O(1)` extra space
-- [x] **Day 16 — #234 Palindrome Linked List** — Slow & Fast Pointers + Reverse — `O(n)` time, `O(1)` extra space
-- [x] **Day 17 — #143 Reorder List** — Find Middle + Reverse + Merge — `O(n)` time, `O(1)` extra space
-- [x] **Day 18 — #457 Circular Array Loop** — Floyd's Cycle Detection + Direction Check — `O(n²)` time, `O(1)` extra space
-- [x] **Day 19 — Total Number of Commas** — Mathematical Observation — `O(log n)` time, `O(1)` space
-- [x] **Day 20 — #2265 Count Nodes Equal to Average of Subtree** — Postorder DFS — `O(n)` time, `O(h)` extra space
-- [x] **Day 21 — Count 3-Digit Even Numbers** — Frequency Counting + Brute Force — `O(1)` time, `O(1)` space
-- [x] **Day 22 — #2472 Maximum Number of Non-overlapping Palindrome Substrings** — DP + Palindrome Check — `O(n²)` time, `O(n²)` space
-- [x] **Day 23 — #1477 Find Two Non-overlapping Sub-arrays Each With Target Sum** — Sliding Window + DP — `O(n)` time, `O(n)` space
-- [x] **Day 24 — Reverse Degree of a String** — Character Mapping — `O(n)` time, `O(1)` space
-- [x] **Day 25 — Smallest Index With Digit Sum Equal to Index** — Digit Sum — `O(n log(nums[i]))` time, `O(1)` space
-- [x] **Day 26 — Brace Expansion II** — Recursive Parsing + Set — `O(k²)`-ish time, `O(k)` space
-- [x] **Day 27 — Evaluate the Bracket Pairs of a String** — Hash Map + String Scan — `O(n)` average time, `O(n)` space
-- [x] **Day 28 — Reverse Substrings Between Each Pair of Parentheses** — Stack + Reverse — `O(n²)` worst-case time, `O(n)` space
-- [x] **Day 29 — Maximum Nesting Depth of the Parentheses** — Depth Tracking — `O(n)` time, `O(1)` space
-- [x] **Day 30 — #76 Minimum Window Substring** — Sliding Window — `O(m + n)` time, `O(1)` space
-- [x] **Day 31 — #2267 Check if There Is a Valid Parentheses String Path** — 3D DP + Balance Tracking — `O(mn(m + n))` time, `O(mn(m + n))` space
-- [x] **Day 32 — #438 Find All Anagrams in a String** — Sliding Window + Frequency Count — `O(n)` time, `O(1)` space
-- [x] **Day 33 — #30 Substring with Concatenation of All Words** — Sliding Window + Frequency Count — `O(n × wordLen)` time, `O(wordCount)` space
-- [x] **Day 34 — #525 Contiguous Array** — Prefix Sum + Hash Map — `O(n)` time, `O(n)` space
+No solved problems are currently listed. New solutions will be added here as I continue practicing.
 
 ## Progress
 
-**34 / 34 problems completed**
+**0 problems listed**
 
 More problems will be added as the DSA journey continues.
