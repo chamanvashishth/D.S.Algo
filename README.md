@@ -4,10 +4,10 @@ My day-by-day DSA practice in C++.
 
 ## Solved Problems Checklist
 
-No solved problems are currently listed. New solutions will be added here as I continue practicing.
+- [x] **Day 1 — #167 Two Sum II - Input Array Is Sorted** — Two Pointers — `O(n)` time, `O(1)` extra space
 
 ## Progress
 
-**0 problems listed**
+**1 / 1 problems completed**
 
 More problems will be added as the DSA journey continues.
