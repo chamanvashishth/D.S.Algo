@@ -13,9 +13,10 @@ A personal, day-by-day record of my Data Structures and Algorithms practice in C
 | [Day 5](Day-05/3Sum.cpp) | [#15 — 3Sum](https://leetcode.com/problems/3sum/) | Sorting + Two Pointers | O(n²) | O(1) |
 | [Day 6](Day-06/3SumClosest.cpp) | [#16 — 3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Sorting + Two Pointers | O(n²) | O(1) |
 | [Day 7](Day-07/SubarrayProductLessThanK.cpp) | [#713 — Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | Sliding Window | O(n) | O(1) |
+| [Day 8](Day-08/SortColors.cpp) | [#75 — Sort Colors](https://leetcode.com/problems/sort-colors/) | Dutch National Flag / Three Pointers | O(n) | O(1) |
 
 ## Progress
 
-**7 problems solved**
+**8 problems solved**
 
 I’m keeping this repository as a practical learning log: one problem at a time, with solutions that are easy to revisit and understand. I’ll continue adding new problems as I work through DSA patterns and improve my problem-solving skills.
