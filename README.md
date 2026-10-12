@@ -15,10 +15,11 @@ A personal, day-by-day record of my Data Structures and Algorithms practice in C
 | [Day 7](Day-07/SubarrayProductLessThanK.cpp) | [#713 — Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | Sliding Window | O(n) | O(1) |
 | [Day 8](Day-08/SortColors.cpp) | [#75 — Sort Colors](https://leetcode.com/problems/sort-colors/) | Dutch National Flag / Three Pointers | O(n) | O(1) |
 | [Day 9](Day-09/4Sum.cpp) | [#18 — 4Sum](https://leetcode.com/problems/4sum/) | Sorting + Two Pointers | O(n³) | O(1) extra space* |
+| [Day 10](Day-10/LinkedListCycle.cpp) | [#141 — Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Floyd’s Cycle Detection / Two Pointers | O(n) | O(1) |
 
 ## Progress
 
-**9 problems solved**
+**10 problems solved**
 
 I’m keeping this repository as a practical learning log: one problem at a time, with solutions that are easy to revisit and understand. I’ll continue adding new problems as I work through DSA patterns and improve my problem-solving skills.
 
