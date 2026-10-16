@@ -19,10 +19,11 @@ A personal, day-by-day record of my Data Structures and Algorithms practice in C
 | [Day 11](Day-11/RemoveDuplicatesFromSortedArrayII.cpp) | [#80 — Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Two Pointers | O(n) | O(1) |
 | [Day 12](Day-12/HappyNumber.cpp) | [#202 — Happy Number](https://leetcode.com/problems/happy-number/) | Floyd’s Cycle Detection | O(log n) per transformation sequence | O(1) |
 | [Day 13](Day-13/FindDuplicateNumber.cpp) | [#287 — Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Floyd’s Cycle Detection / Linked List Cycle | O(n) | O(1) |
+| [Day 14](Day-14/MiddleOfTheLinkedList.cpp) | [#876 — Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Fast and Slow Pointers | O(n) | O(1) |
 
 ## Progress
 
-**13 problems solved**
+**14 problems solved**
 
 I’m keeping this repository as a practical learning log: one problem at a time, with solutions that are easy to revisit and understand. I’ll continue adding new problems as I work through DSA patterns and improve my problem-solving skills.
 
