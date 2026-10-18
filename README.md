@@ -21,10 +21,11 @@ A personal, day-by-day record of my Data Structures and Algorithms practice in C
 | [Day 13](Day-13/FindDuplicateNumber.cpp) | [#287 — Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Floyd’s Cycle Detection / Linked List Cycle | O(n) | O(1) |
 | [Day 14](Day-14/MiddleOfTheLinkedList.cpp) | [#876 — Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Fast and Slow Pointers | O(n) | O(1) |
 | [Day 15](Day-15/PalindromeLinkedList.cpp) | [#234 — Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Fast and Slow Pointers + List Reversal | O(n) | O(1) |
+| [Day 16](Day-16/ReorderList.cpp) | [#143 — Reorder List](https://leetcode.com/problems/reorder-list/) | Find Middle + Reverse + Merge | O(n) | O(1) |
 
 ## Progress
 
-**15 problems solved**
+**16 problems solved**
 
 I’m keeping this repository as a practical learning log: one problem at a time, with solutions that are easy to revisit and understand. I’ll continue adding new problems as I work through DSA patterns and improve my problem-solving skills.
 
