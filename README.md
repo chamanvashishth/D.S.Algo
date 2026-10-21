@@ -24,10 +24,11 @@ A personal, day-by-day record of my Data Structures and Algorithms practice in C
 | [Day 16](Day-16/ReorderList.cpp) | [#143 — Reorder List](https://leetcode.com/problems/reorder-list/) | Find Middle + Reverse + Merge | O(n) | O(1) |
 | [Day 17](Day-17/CircularArrayLoop.cpp) | [#457 — Circular Array Loop](https://leetcode.com/problems/circular-array-loop/) | Floyd’s Cycle Detection + Direction Check | O(n) | O(1) |
 | [Day 18](Day-18/MinimumSizeSubarraySum.cpp) | [#209 — Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Sliding Window | O(n) | O(1) |
+| [Day 19](Day-19/LinkedListCycleII.cpp) | [#142 — Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Floyd’s Cycle Detection | O(n) | O(1) |
 
 ## Progress
 
-**18 problems solved**
+**19 problems solved**
 
 I’m keeping this repository as a practical learning log: one problem at a time, with solutions that are easy to revisit and understand. I’ll continue adding new problems as I work through DSA patterns and improve my problem-solving skills.
 
