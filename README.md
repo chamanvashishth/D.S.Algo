@@ -27,10 +27,11 @@ A personal, day-by-day record of my Data Structures and Algorithms practice in C
 | [Day 19](Day-19/LinkedListCycleII.cpp) | [#142 — Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Floyd’s Cycle Detection | O(n) | O(1) |
 | [Day 20](Day-20/FruitIntoBaskets.cpp) | [#904 — Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | Sliding Window + Hash Map | O(n) average | O(1) |
 | [Day 21](Day-21/LongestSubstringWithoutRepeatingCharacters.cpp) | [#3 — Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Sliding Window + Hash Map | O(n) average | O(min(n, charset)) |
+| [Day 22](Day-22/LongestRepeatingCharacterReplacement.cpp) | [#424 — Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Sliding Window + Frequency Array | O(n) | O(1) |
 
 ## Progress
 
-**21 problems solved**
+**22 problems solved**
 
 I’m keeping this repository as a practical learning log: one problem at a time, with solutions that are easy to revisit and understand. I’ll continue adding new problems as I work through DSA patterns and improve my problem-solving skills.
 
