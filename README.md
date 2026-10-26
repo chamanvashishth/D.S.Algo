@@ -29,10 +29,11 @@ A personal, day-by-day record of my Data Structures and Algorithms practice in C
 | [Day 21](Day-21/LongestSubstringWithoutRepeatingCharacters.cpp) | [#3 — Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Sliding Window + Hash Map | O(n) average | O(min(n, charset)) |
 | [Day 22](Day-22/LongestRepeatingCharacterReplacement.cpp) | [#424 — Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Sliding Window + Frequency Array | O(n) | O(1) |
 | [Day 23](Day-23/MaxConsecutiveOnesIII.cpp) | [#1004 — Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Sliding Window + Two Pointers | O(n) | O(1) |
+| [Day 24](Day-24/NumberOfClosedIslands.cpp) | [#1254 — Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | DFS + Flood Fill | O(m × n) | O(m × n) worst-case recursion stack |
 
 ## Progress
 
-**23 problems solved**
+**24 problems solved**
 
 I’m keeping this repository as a practical learning log: one problem at a time, with solutions that are easy to revisit and understand. I’ll continue adding new problems as I work through DSA patterns and improve my problem-solving skills.
 
