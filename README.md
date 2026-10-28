@@ -6,6 +6,7 @@ A personal, day-by-day record of my Data Structures and Algorithms practice in C
 
 | Day | Problem | Pattern | Time | Extra Space |
 | --- | --- | --- | --- | --- |
+| [Day 25](Day-25/PermutationInString.cpp) | [#567 — Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Fixed-Size Sliding Window + Frequency Array | O(m + n) | O(1) |
 | [Day 24](Day-24/MinimumWindowSubstring.cpp) | [#76 — Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Sliding Window + Frequency Array | O(m + n) | O(1) |
 | [Day 1](Day-01/TwoSumII.cpp) | [#167 — Two Sum II: Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Two Pointers | O(n) | O(1) |
 | [Day 2](Day-02/RemoveDuplicatesFromSortedList.cpp) | [#83 — Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Linked List | O(n) | O(1) |
@@ -33,7 +34,7 @@ A personal, day-by-day record of my Data Structures and Algorithms practice in C
 
 ## Progress
 
-**24 problems solved**
+**25 problems solved**
 
 I’m keeping this repository as a practical learning log: one problem at a time, with solutions that are easy to revisit and understand. I’ll continue adding new problems as I work through DSA patterns and improve my problem-solving skills.
 
