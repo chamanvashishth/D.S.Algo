@@ -6,6 +6,7 @@ A personal, day-by-day record of my Data Structures and Algorithms practice in C
 
 | Day | Problem | Pattern | Time | Extra Space |
 | --- | --- | --- | --- | --- |
+| [Day 29](Day-29/MaximumProductSubarray.cpp) | [#152 — Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Dynamic Programming (Max/Min Product) | O(n) | O(1) |
 | [Day 28](Day-28/MaximumSubarray.cpp) | [#53 — Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Kadane’s Algorithm | O(n) | O(1) |
 | [Day 27](Day-27/SubstringWithConcatenationOfAllWords.cpp) | [#30 — Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Sliding Window + Hash Map | O(n · L) expected | O(k · L) |
 | [Day 26](Day-26/FindAllAnagramsInAString.cpp) | [#438 — Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Fixed-Size Sliding Window + Frequency Array | O(n + k) | O(1) |
@@ -37,7 +38,7 @@ A personal, day-by-day record of my Data Structures and Algorithms practice in C
 
 ## Progress
 
-**28 problems solved**
+**29 problems solved**
 
 I’m keeping this repository as a practical learning log: one problem at a time, with solutions that are easy to revisit and understand. I’ll continue adding new problems as I work through DSA patterns and improve my problem-solving skills.
 
