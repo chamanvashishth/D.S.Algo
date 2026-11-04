@@ -6,7 +6,7 @@ A personal, day-by-day record of my Data Structures and Algorithms practice in C
 
 | Day | Problem | Pattern | Time | Extra Space |
 | --- | --- | --- | --- | --- |
-| [Day 31](Day-31/MaximumAbsoluteSumOfAnySubarray.cpp) | [#1749 — Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | Kadane’s Algorithm (Maximum + Minimum Subarray Sum) | O(n) | O(1) |
+| [Day 32](Day-32/MaximumSumCircularSubarray.cpp) | [#918 — Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Kadane’s Algorithm (Maximum + Minimum Subarray Sum) | O(n) | O(1) |\n| [Day 31](Day-31/MaximumAbsoluteSumOfAnySubarray.cpp) | [#1749 — Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | Kadane’s Algorithm (Maximum + Minimum Subarray Sum) | O(n) | O(1) |
 | [Day 30](Day-30/MaximumSubarraySumWithOneDeletion.cpp) | [#1186 — Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) | Dynamic Programming (Kadane’s Algorithm + One Deletion) | O(n) | O(1) |
 | [Day 29](Day-29/MaximumProductSubarray.cpp) | [#152 — Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Dynamic Programming (Max/Min Product) | O(n) | O(1) |
 | [Day 28](Day-28/MaximumSubarray.cpp) | [#53 — Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Kadane’s Algorithm | O(n) | O(1) |
@@ -40,7 +40,7 @@ A personal, day-by-day record of my Data Structures and Algorithms practice in C
 
 ## Progress
 
-**31 problems solved**
+**32 problems solved**
 
 I’m keeping this repository as a practical learning log: one problem at a time, with solutions that are easy to revisit and understand. I’ll continue adding new problems as I work through DSA patterns and improve my problem-solving skills.
 
