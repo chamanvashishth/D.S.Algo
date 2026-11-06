@@ -6,6 +6,7 @@ A personal, day-by-day record of my Data Structures and Algorithms practice in C
 
 | Day | Problem | Pattern | Time | Extra Space |
 | --- | --- | --- | --- | --- |
+| [Day 34](Day-34/FindPivotIndex.cpp) | [#724 — Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Prefix Sum | O(n) | O(1) |
 | [Day 33](Day-33/SubarraySumEqualsK.cpp) | [#560 — Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Prefix Sum + Hash Map | O(n) average | O(n) |
 | [Day 32](Day-32/MaximumSumCircularSubarray.cpp) | [#918 — Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Kadane’s Algorithm (Maximum + Minimum Subarray Sum) | O(n) | O(1) 
 | [Day 31](Day-31/MaximumAbsoluteSumOfAnySubarray.cpp) | [#1749 — Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | Kadane’s Algorithm (Maximum + Minimum Subarray Sum) | O(n) | O(1) |
@@ -42,7 +43,7 @@ A personal, day-by-day record of my Data Structures and Algorithms practice in C
 
 ## Progress
 
-**33 problems solved**
+**34 problems solved**
 
 I’m keeping this repository as a practical learning log: one problem at a time, with solutions that are easy to revisit and understand. I’ll continue adding new problems as I work through DSA patterns and improve my problem-solving skills.
 
