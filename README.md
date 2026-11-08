@@ -1,11 +1,12 @@
 # D.S.Algo
 
-A personal, day-by-day record of my Data Structures and Algorithms practice in C++. Each solution focuses on a clear approach, readable code, and the reasoning behind it.
+A personal, day-by-day record of my Data Structures and Algorithms practice in C++ and Python. Each solution focuses on a clear approach, readable code, and the reasoning behind it.
 
 ## Solved Problems
 
 | Day | Problem | Pattern | Time | Extra Space |
 | --- | --- | --- | --- | --- |
+| [Day 36](Day-36/ContiguousArray.py) | [#525 — Contiguous Array](https://leetcode.com/problems/contiguous-array/) | Prefix Sum + Hash Map | O(n) | O(n) |
 | [Day 35](Day-35/SubarraySumsDivisibleByK.cpp) | [#974 — Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | Prefix Sum + Remainder Frequency | O(n) | O(k) |
 | [Day 34](Day-34/FindPivotIndex.cpp) | [#724 — Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Prefix Sum | O(n) | O(1) |
 | [Day 33](Day-33/SubarraySumEqualsK.cpp) | [#560 — Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Prefix Sum + Hash Map | O(n) average | O(n) |
@@ -44,7 +45,7 @@ A personal, day-by-day record of my Data Structures and Algorithms practice in C
 
 ## Progress
 
-**35 problems solved**
+**36 problems solved**
 
 I’m keeping this repository as a practical learning log: one problem at a time, with solutions that are easy to revisit and understand. I’ll continue adding new problems as I work through DSA patterns and improve my problem-solving skills.
 
