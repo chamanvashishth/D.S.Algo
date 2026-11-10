@@ -17,16 +17,30 @@ class Solution:
 
             start = end = mid
 
-            for value in prefix_sum[left:mid]:
-                while start < right and prefix_sum[start] - value < lower:
+            for i in range(left, mid):
+                while start < right and prefix_sum[start] - prefix_sum[i] < lower:
                     start += 1
 
-                while end < right and prefix_sum[end] - value <= upper:
+                while end < right and prefix_sum[end] - prefix_sum[i] <= upper:
                     end += 1
 
                 count += end - start
 
-            prefix_sum[left:right] = sorted(prefix_sum[left:right])
+            merged = []
+            i, j = left, mid
+
+            while i < mid and j < right:
+                if prefix_sum[i] <= prefix_sum[j]:
+                    merged.append(prefix_sum[i])
+                    i += 1
+                else:
+                    merged.append(prefix_sum[j])
+                    j += 1
+
+            merged.extend(prefix_sum[i:mid])
+            merged.extend(prefix_sum[j:right])
+            prefix_sum[left:right] = merged
+
             return count
 
         return merge_sort(0, len(prefix_sum))
