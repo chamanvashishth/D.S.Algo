@@ -6,6 +6,7 @@ A personal, day-by-day record of my Data Structures and Algorithms practice in C
 
 | Day | Problem | Pattern | Time | Extra Space |
 | --- | --- | --- | --- | --- |
+| [Day 39](Day-39/MergeIntervals.py) | [#56 — Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Sorting + Greedy | O(n log n) | O(n) |
 | [Day 38](Day-38/CountOfRangeSum.py) | [#327 — Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/) | Prefix Sum + Merge Sort | O(n log n) | O(n) |
 | [Day 37](Day-37/ShortestSubarrayWithSumAtLeastK.py) | [#862 — Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | Prefix Sum + Monotonic Deque | O(n) | O(n) |
 | [Day 36](Day-36/ContiguousArray.py) | [#525 — Contiguous Array](https://leetcode.com/problems/contiguous-array/) | Prefix Sum + Hash Map | O(n) | O(n) |
@@ -47,7 +48,7 @@ A personal, day-by-day record of my Data Structures and Algorithms practice in C
 
 ## Progress
 
-**38 problems solved**
+**39 problems solved**
 
 I’m keeping this repository as a practical learning log: one problem at a time, with solutions that are easy to revisit and understand. I’ll continue adding new problems as I work through DSA patterns and improve my problem-solving skills.
 
