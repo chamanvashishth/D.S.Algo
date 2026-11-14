@@ -6,6 +6,7 @@ A personal, day-by-day record of my Data Structures and Algorithms practice in C
 
 | Day | Problem | Pattern | Time | Extra Space |
 | --- | --- | --- | --- | --- |
+| [Day 42](Day-42/ReverseLinkedList.py) | [#206 — Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Linked List Reversal (Iterative + Recursive) | O(n) | O(1) iterative; O(n) recursive |
 | [Day 41](Day-41/IntervalListIntersections.py) | [#986 — Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | Two Pointers | O(n + m) | O(1) |
 | [Day 40](Day-40/InsertInterval.py) | [#57 — Insert Interval](https://leetcode.com/problems/insert-interval/) | Two Pointers + Interval Merging | O(n) | O(n) |
 | [Day 39](Day-39/MergeIntervals.py) | [#56 — Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Sorting + Greedy | O(n log n) | O(n) |
@@ -50,7 +51,7 @@ A personal, day-by-day record of my Data Structures and Algorithms practice in C
 
 ## Progress
 
-**41 problems solved**
+**42 problems solved**
 
 I’m keeping this repository as a practical learning log: one problem at a time, with solutions that are easy to revisit and understand. I’ll continue adding new problems as I work through DSA patterns and improve my problem-solving skills.
 
