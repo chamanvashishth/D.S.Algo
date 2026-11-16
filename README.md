@@ -6,6 +6,7 @@ A personal, day-by-day record of my Data Structures and Algorithms practice in C
 
 | Day | Problem | Pattern | Time | Extra Space |
 | --- | --- | --- | --- | --- |
+| [Day 44](Day-44/ReverseNodesInKGroup.py) | [#25 — Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Iterative Linked List Reversal | O(n) | O(1) |
 | [Day 44](Day-44/SwapNodesInPairs.py) | [#24 — Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Iterative Pointer Rewiring | O(n) | O(1) |
 | [Day 43](Day-43/MedianOfTwoSortedArrays.py) | [#4 — Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Binary Search + Partitioning | O(log(min(m, n))) | O(1) |
 | [Day 42](Day-42/ReverseLinkedList.py) | [#206 — Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Linked List Reversal (Iterative + Recursive) | O(n) | O(1) iterative; O(n) recursive |
@@ -54,7 +55,7 @@ A personal, day-by-day record of my Data Structures and Algorithms practice in C
 
 ## Progress
 
-**45 problems solved**
+**46 problems solved**
 
 I’m keeping this repository as a practical learning log: one problem at a time, with solutions that are easy to revisit and understand. I’ll continue adding new problems as I work through DSA patterns and improve my problem-solving skills.
 
