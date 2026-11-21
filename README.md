@@ -6,6 +6,7 @@ A personal, day-by-day record of my Data Structures and Algorithms practice in C
 
 | Day | Problem | Pattern | Time | Extra Space |
 | --- | --- | --- | --- | --- |
+| [Day 46](Day-46/RemoveAllAdjacentDuplicatesInString.py) | [#1047 — Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Stack | O(n) | O(n) |
 | [Day 45](Day-45/RotateList.py) | [#61 — Rotate List](https://leetcode.com/problems/rotate-list/) | Linked List + Circular Connection | O(n) | O(1) |
 | [Day 45](Day-45/ReverseNodesInEvenLengthGroups.py) | [#2074 — Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/) | Linked List Group Traversal + Iterative Reversal | O(n) | O(1) |
 | [Day 44](Day-44/ReverseNodesInKGroup.py) | [#25 — Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Iterative Linked List Reversal | O(n) | O(1) |
@@ -57,7 +58,7 @@ A personal, day-by-day record of my Data Structures and Algorithms practice in C
 
 ## Progress
 
-**48 problems solved**
+**49 problems solved**
 
 I’m keeping this repository as a practical learning log: one problem at a time, with solutions that are easy to revisit and understand. I’ll continue adding new problems as I work through DSA patterns and improve my problem-solving skills.
 
