@@ -6,6 +6,7 @@ A personal, day-by-day record of my Data Structures and Algorithms practice in C
 
 | Day | Problem | Pattern | Time | Extra Space |
 | --- | --- | --- | --- | --- |
+| [Day 47](Day-47/NextGreaterElementII.py) | [#503 — Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | Circular Array + Monotonic Stack | O(n) | O(n) |
 | [Day 46](Day-46/ValidParentheses.py) | [#20 — Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Stack + Bracket Matching | O(n) | O(n) |
 | [Day 46](Day-46/RemoveAllAdjacentDuplicatesInString.py) | [#1047 — Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Stack | O(n) | O(n) |
 | [Day 45](Day-45/RotateList.py) | [#61 — Rotate List](https://leetcode.com/problems/rotate-list/) | Linked List + Circular Connection | O(n) | O(1) |
@@ -59,7 +60,7 @@ A personal, day-by-day record of my Data Structures and Algorithms practice in C
 
 ## Progress
 
-**50 problems solved**
+**51 problems solved**
 
 I’m keeping this repository as a practical learning log: one problem at a time, with solutions that are easy to revisit and understand. I’ll continue adding new problems as I work through DSA patterns and improve my problem-solving skills.
 
