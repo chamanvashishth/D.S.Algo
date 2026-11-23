@@ -6,6 +6,7 @@ A personal, day-by-day record of my Data Structures and Algorithms practice in C
 
 | Day | Problem | Pattern | Time | Extra Space |
 | --- | --- | --- | --- | --- |
+| [Day 48](Day-48/RemoveAllAdjacentDuplicatesInStringII.py) | [#1209 — Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | Stack + Character Counts | O(n) | O(n) |
 | [Day 48](Day-48/RemoveNodesFromLinkedList.py) | [#2487 — Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) | Reverse Linked List + Running Maximum | O(n) | O(1) |
 | [Day 47](Day-47/DailyTemperatures.py) | [#739 — Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Monotonic Stack | O(n) | O(n) |
 | [Day 47](Day-47/NextGreaterElementII.py) | [#503 — Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | Circular Array + Monotonic Stack | O(n) | O(n) |
@@ -62,7 +63,7 @@ A personal, day-by-day record of my Data Structures and Algorithms practice in C
 
 ## Progress
 
-**53 problems solved**
+**54 problems solved**
 
 I’m keeping this repository as a practical learning log: one problem at a time, with solutions that are easy to revisit and understand. I’ll continue adding new problems as I work through DSA patterns and improve my problem-solving skills.
 
