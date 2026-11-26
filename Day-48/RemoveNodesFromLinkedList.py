@@ -1,36 +1,31 @@
-# Definition for singly-linked list:
-# class ListNode:
-#     def __init__(self, val=0, next=None):
-#         self.val = val
-#         self.next = next
+from __future__ import annotations
+from typing import Optional
+
+# ListNode is provided by LeetCode.
 
 class Solution:
     def removeNodes(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        prev = None
+
+        def reverse(node):
+            prev = None
+
+            while node:
+                next_node = node.next
+                node.next = prev
+                prev = node
+                node = next_node
+
+            return prev
+
+        head = reverse(head)
         curr = head
+        max_value = head.val
 
-        while curr:
-            next_node = curr.next
-            curr.next = prev
-            prev = curr
-            curr = next_node
-
-        head = prev
-        curr = head
-
-        while curr and curr.next:
-            if curr.next.val < curr.val:
+        while curr.next:
+            if curr.next.val < max_value:
                 curr.next = curr.next.next
             else:
                 curr = curr.next
+                max_value = curr.val
 
-        prev = None
-        curr = head
-
-        while curr:
-            next_node = curr.next
-            curr.next = prev
-            prev = curr
-            curr = next_node
-
-        return prev
+        return reverse(head)
